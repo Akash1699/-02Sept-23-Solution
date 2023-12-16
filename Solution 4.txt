@@ -1,0 +1,7 @@
+Tag: The <img> tag in HTML is used to embed images into a webpage.
+
+<img src="image.jpg" alt="Description of the image">
+
+Elements:element is a fundamental building block that defines the structure and content of a webpage.
+
+<tagname attribute="value">Content</tagname>

@@ -1,0 +1,1 @@
+In HTML, comments are used to include explanatory notes or information within the code that won't be displayed on the webpage.
